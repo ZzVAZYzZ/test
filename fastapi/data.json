@@ -1,0 +1,32 @@
+[
+    {
+        "key":"1",
+        "username":"John",
+        "password":"********",
+        "email":"John@email.com"
+    },
+    {
+        "key":"2",
+        "username":"Tom",
+        "password":"*****",
+        "email":"Tom@email.com"
+    },
+    {
+        "key":"3",
+        "username":"Jerry",
+        "password":"*********",
+        "email":"Jerry@email.com"
+    },
+    {
+        "key":"4",
+        "username":"Bull",
+        "password":"**********",
+        "email":"Bull@email.com"
+    },
+    {
+        "key":"5",
+        "username":"Neko",
+        "password":"*******",
+        "email":"Neko@email.com"
+    }
+]
